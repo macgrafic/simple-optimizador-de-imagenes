@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Simple Optimizador de Imágenes
  * Description: Optimiza automáticamente imágenes: convierte JPG/PNG a WebP, limita tamaño y dimensiones, valida nombres, y elimina tamaños intermedios. Cada función es activable de forma independiente.
- * Version: 1.11
+ * Version: 1.12
  * Author: Paco Castilla
  * Author URI: https://macgrafic.com
  * License: GPL2
