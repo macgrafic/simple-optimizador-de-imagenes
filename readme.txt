@@ -3,7 +3,7 @@ Contributors: pakocastilla
 Tags: images, optimization, webp, compress, resize
 Requires at least: 5.8
 Tested up to: 6.9
-Stable tag: 1.10
+Stable tag: 1.11
 Requires PHP: 7.4
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
