@@ -18,7 +18,6 @@ $pkUpdateChecker = PucFactory::buildUpdateChecker(
 	__FILE__,
 	'simple-optimizador-de-imagenes'
 );
-$pkUpdateChecker->setBranch('main');
 // ──────────────────────────────────────────────────────────────────────────
 
 class PK_Restringir_Imagenes {
